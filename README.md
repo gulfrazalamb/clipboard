@@ -1,7 +1,7 @@
-# clipboard
+# Clipboard!
 get your output, in your clipboard.
 
-# Installation guide
+# Installation guide!
 
 sudo apt install xclip
 
@@ -13,4 +13,13 @@ sudo chmod +x clipboard
 
 sudo mv clipboard /usr/bin/
 
-*that's it.
+*that's it!
+
+# Usage!
+
+cat filename | clipboard
+
+*you get your texts in clipbard*
+
+for ex:  - 
+cat test.json | clipboard
