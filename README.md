@@ -21,6 +21,6 @@ cat filename | clipboard
 
 *you get your texts in clipbard*
 
-# Example!
+# Example:-
 
 cat test.json | clipboard
