@@ -1,4 +1,4 @@
-#clipboard
+# clipboard
 get your output, in your clipboard.
 
 # Installation guide
