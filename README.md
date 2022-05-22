@@ -24,3 +24,12 @@ cat filename | clipboard
 # Example:-
 
 cat test.json | clipboard
+
+or
+
+cat you_file_name.txt | clipboard
+
+or
+
+cat your_file_any.format | clipboard
+
