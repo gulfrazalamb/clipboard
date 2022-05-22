@@ -19,7 +19,7 @@ sudo mv clipboard /usr/bin/
 
 cat filename | clipboard
 
-*you get your texts in clipbard*
+*you get your texts in clipboard*
 
 # Example:-
 
